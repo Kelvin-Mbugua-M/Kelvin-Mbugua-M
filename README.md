@@ -5,13 +5,13 @@
 
 - 🌱 I’m currently learning **ReactjS**
 
-- 👯 I’m looking to collaborate on **Stockfish.Engine**
+- 👯I will one day collaborate on **Stockfish.Engine** and take that to the bank
 
-- 💬 Ask me about **JavaScript ,React**
+- 💬 Ask me about **anything**
 
-- 📫 How to reach me **mbuguakelvinmunyui@gmail.com**
+- 📫email me **mbuguakelvinmunyui@gmail.com**
 
-- ⚡ Fun fact **No one like my truth,gotta lie**
+- ⚡Fact **No one like my truth,gotta lie**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
