@@ -1,8 +1,6 @@
 <h1 align="left">Hi 👋 am @Larvey</h1>
 <h3 align="center">I am a varsity student</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kelvin-mbugua-m" alt="kelvin-mbugua-m" /></a> </p>
-
 - 🌱 I’m currently learning **ReactjS**
 
 - 👯I will one day collaborate on **Stockfish.Engine** and take that to the bank
