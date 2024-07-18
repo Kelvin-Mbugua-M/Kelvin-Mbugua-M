@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **ReactjS**
 
-- 👯I will one day collaborate on **Stockfish.Engine** and take that to the bank
+- 👯will one day collaborate on **Stockfish.Engine** and take that to the bank
 
 - 💬 Ask me about **anything**
 
